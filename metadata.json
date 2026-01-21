@@ -1,0 +1,8 @@
+{
+  "name": "Pocket Science Companion",
+  "description": "An AI-powered science discovery app for kids to explore the world through image identification, conversational 'why' questions, and personalized science stories.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
